@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **juanfernando.avendanoa@gmail.com**
 
-- ⚡ Fun fact **I love dogs, sports, music**
+- ⚡ Fun fact **I love dogs, sports and music**
 
 
 
