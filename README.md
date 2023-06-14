@@ -1,10 +1,3 @@
-<head>
-  <style>
-    img {
-      border-radius: 10px;
-    }
-  </style>
-</head>
 <h1 align="center">Hi 👋, I'm Juan Fernando Avendaño Alzate</h1><br>
 <h3 align="center">A passionate backend developer from Colombia</h3><br>
 
