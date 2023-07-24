@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [E-commerce](https://github.com/ju4n-avendanoa/EcommerceAPI)
+- 🔭 I’m currently working on [Airbnb clone](https://github.com/ju4n-avendanoa/Airbnb)
 
 - 💬 Ask me about **Node, Javascript, Typescript, Docker**
 
