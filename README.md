@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Airbnb clone](https://github.com/ju4n-avendanoa/Airbnb)
+- 🔭 I’m currently working on [Task Manager](https://github.com/ju4n-avendanoa/ToDoList---NextJS) and [Airbnb clone](https://github.com/ju4n-avendanoa/Airbnb)
 
 - 💬 Ask me about **Node, Javascript, Typescript, Docker**
 
