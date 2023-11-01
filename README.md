@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Task Manager](https://github.com/ju4n-avendanoa/ToDoList---NextJS) 
+- 🔭 I’m currently working on [Task Manager](https://github.com/ju4n-avendanoa/ToDoList---NextJS) and [Football Results](https://github.com/ju4n-avendanoa/FootballResults)
 
 - 💬 Ask me about **Node, Javascript, Typescript, Docker**
 
