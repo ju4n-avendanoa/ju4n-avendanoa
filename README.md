@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning **Java and Spring**
 
-- 💬 Ask me about **Node, NextJS, Typescript, Docker**
+- 💬 Ask me about **Node, NextJS, NestJS, Typescript, Docker**
 
 - 📫 How to reach me **juanfernando.avendanoa@gmail.com**
 
