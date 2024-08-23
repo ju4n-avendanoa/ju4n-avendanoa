@@ -17,7 +17,7 @@
 
 <p align="left">
 <h4>LinkedIn</h4>
-<a href="https://linkedin.com/in/ju4n-avendanoa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ju4n-avendanoa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/juanavendanoa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ju4n-avendanoa" height="30" width="40" /></a>
 
 <h4>Portfolio</h4>
 <a href="https://juanavendano.vercel.app" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40"></a> 
