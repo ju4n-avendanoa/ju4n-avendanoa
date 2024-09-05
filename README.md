@@ -5,7 +5,7 @@
 
 </div>
 
-- 🔭 I’m currently learning **Data Science and Machine Learning**
+- 🔭 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **juanfernando.avendanoa@gmail.com**
 
